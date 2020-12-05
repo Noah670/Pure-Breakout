@@ -8,7 +8,7 @@ Pure Breakout is a breakout inspired arcade game written in Javascript
 
 - Dark mode support
 
-- Game Music written by [Rezoner](https://opengameart.org/users/rezoner)
+- Thanks to [Rezoner](https://opengameart.org/users/rezoner) for creating the Game music
 
 - Random block color generation 
 
