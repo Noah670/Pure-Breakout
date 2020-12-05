@@ -1,6 +1,8 @@
 # [Pure Breakout](https://noah670.github.io/Pure-Breakout/)
 Pure Breakout is a breakout inspired arcade game written in Javascript
 
+![alt-text](https://github.com/Noah670/Pure-Breakout/blob/master/display/light-mode-gameplay.gif)
+
 
 # Features 
 
