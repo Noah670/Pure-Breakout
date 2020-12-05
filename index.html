@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pure Breakout</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+</head>
+
+<body>
+    <h1>
+        <center>Pure Breakout</center>
+    </h1>
+
+    <div>
+        <button class="toggleButton">Dark Mode</button>
+        <button class="button1" onclick="document.getElementsByTagName('audio')[0].play();">
+        Sound on
+      </button>
+
+        <button class="button1" onclick="document.getElementsByTagName('audio')[0].pause();">
+        Sound off
+      </button>
+
+        <audio autoplay preload="auto" loop src="/assets/arcadeTune.mp3"></audio>
+    </div>
+
+    <canvas id="myCanvas" width="1280" height="720"></canvas>
+    <script src="/assets/pureBreakout.js"></script>
+
+    <footer class="footer">
+        <center>
+            <a href="https://noah670.com">Noah670</a>
+        </center>
+    </footer>
+</body>
+
+</html>
