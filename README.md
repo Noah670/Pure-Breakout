@@ -3,6 +3,8 @@ Pure Breakout is a breakout inspired arcade game written in Javascript
 
 ![alt-text](https://github.com/Noah670/Pure-Breakout/blob/master/display/light-mode-gameplay.gif)
 
+![alt-text](https://github.com/Noah670/Pure-Breakout/blob/master/display/dark-mode-gameplay.gif)
+
 
 # Features 
 
