@@ -17,3 +17,5 @@ Pure Breakout is a breakout inspired arcade game written in Javascript
 - Random block color generation 
 
 - Dynamic paddle and ball color
+
+- Volume controls for game music
